@@ -16,4 +16,10 @@ public class SpringBatchApplication {
 		SpringApplication.run(SpringBatchApplication.class, args);
 	}
 
+	/*practicando Squash
+	 * https://www.javatpoint.com/git-squash
+	 * $ git rebase -i HEAD ~3  
+	 * 
+	 * 
+	 */
 }
